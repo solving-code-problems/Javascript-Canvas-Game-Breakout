@@ -5,6 +5,7 @@ starting from scratch without prior planning. The idea is to show how to approac
 when you are unfamiliar with a task. I have some experience with using the Canvas API
 but have never done anything similar to this project.
 
+[Test the game](https://solving-code-problems.github.io/Javascript-Canvas-Game-Breakout/index.html)
 
 ## Note!
 This is merely a introduction to canvas programming and not a show of best practises.
@@ -12,6 +13,7 @@ This is merely a introduction to canvas programming and not a show of best pract
 For more info consider reading the links:
 
 `https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API`
+
 `https://developer.mozilla.org/en-US/docs/Games`
 
 
@@ -37,8 +39,8 @@ For more info consider reading the links:
 ```
 ## Controlls
 
-a to move left
-d to move right
+'a' to move left
+'d' to move right
 
 ## Things you can try.
 
